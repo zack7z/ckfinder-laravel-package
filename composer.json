@@ -1,5 +1,5 @@
 {
-    "name": "ts/ckfinder-laravel-package",
+    "name": "technosun/ckfinder-laravel-package",
     "description": "CKFinder 3 package for Laravel",
     "type": "library",
     "license": "MIT",
