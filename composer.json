@@ -7,7 +7,7 @@
         "php": ">=5.6.0",
         "laravel/framework": "^5.5|^6.20.42|^7.0|^8.0|^9.0",
         "pimple/pimple": "~3.0",
-        "technosun/flysystem": "1.*",
+        "technosun/flysystem": "dev-master",
         "technosun/flysystem-cached-adapter": "dev-master",
         "league/flysystem-aws-s3-v3": "^3.0",
         "spatie/flysystem-dropbox": "^1.0|^2.0"
